@@ -1,3 +1,5 @@
+"use client";
+
 import { getSession } from "../../lib/auth";
 import { redirect } from "next/navigation";
 import Navigation from "../../components/Navigation";
